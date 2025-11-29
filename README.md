@@ -8,6 +8,6 @@
 <img width="1910" height="827" alt="image" src="https://github.com/user-attachments/assets/bde0c9e3-b724-40d2-bb3c-d524dc3973a0" />
 
 ### Gameplay Demo
-[![Watch the video](gameplay_thumb.png)]([https://youtu.be/YOUR_VIDEO_ID_HERE](https://youtu.be/5fIy9Q67Wx8))
+[![Watch the video]]([https://youtu.be/YOUR_VIDEO_ID_HERE](https://youtu.be/5fIy9Q67Wx8))
 
 *(Click the image above to watch the gameplay video)*
