@@ -7,7 +7,6 @@
 
 <img width="1910" height="827" alt="image" src="https://github.com/user-attachments/assets/bde0c9e3-b724-40d2-bb3c-d524dc3973a0" />
 
-### Gameplay Demo
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/5fIy9Q67Wx8/0.jpg)](http://www.youtube.com/watch?v=5fIy9Q67Wx8)
 
-*(Click the image above to watch the gameplay video)*
+https://github.com/user-attachments/assets/ed2ab23c-8c71-4657-8f1e-ee5c0354b04c
+
