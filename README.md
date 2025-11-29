@@ -8,6 +8,6 @@
 <img width="1910" height="827" alt="image" src="https://github.com/user-attachments/assets/bde0c9e3-b724-40d2-bb3c-d524dc3973a0" />
 
 ### Gameplay Demo
-[![Watch the video](Assets/Textures/Gemini_Generated_Image_48a5d148a5d148a5.png)]([https://youtu.be/YOUR_VIDEO_LINK](https://youtu.be/5fIy9Q67Wx8))
+[![demo](http://img.youtube.com/vi/https://youtu.be/5fIy9Q67Wx8/0.jpg)](http://www.youtube.com/watch?v=https://youtu.be/5fIy9Q67Wx8)
 
 *(Click the image above to watch the gameplay video)*
